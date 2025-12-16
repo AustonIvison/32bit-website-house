@@ -1,0 +1,71 @@
+{
+  "npcs": [
+    {
+      "id": "gym_leader",
+      "name": "Gym Leader Brock",
+      "position": { "x": 7, "y": 1 },
+      "facing": "down",
+      "spriteKey": "leader",
+      "dialog": [
+        "Welcome, challenger!",
+        "I am Brock, the Rock-type Gym Leader.",
+        "My rock-hard determination has made me who I am today.",
+        "If you wish to challenge me, you must first prove your worth!",
+        "Navigate through this gym and speak to my trainers.",
+        "Only then will I accept your challenge!"
+      ]
+    },
+    {
+      "id": "trainer_1",
+      "name": "Hiker Marcus",
+      "position": { "x": 3, "y": 4 },
+      "facing": "right",
+      "spriteKey": "hiker",
+      "dialog": [
+        "Hah! You think you can just waltz in here?",
+        "Rock-type Pokémon are the toughest around!",
+        "Their defense is legendary!",
+        "Good luck getting past me, kid!"
+      ]
+    },
+    {
+      "id": "trainer_2",
+      "name": "Youngster Joey",
+      "position": { "x": 11, "y": 4 },
+      "facing": "left",
+      "spriteKey": "youngster",
+      "dialog": [
+        "Hey! I'm the newest trainer here!",
+        "Brock took me under his wing.",
+        "One day I'll be a Gym Leader too!",
+        "For now, I guard this side of the gym!"
+      ]
+    },
+    {
+      "id": "trainer_3",
+      "name": "Hiker Boulder",
+      "position": { "x": 5, "y": 7 },
+      "facing": "down",
+      "spriteKey": "hiker",
+      "dialog": [
+        "These rocks aren't just obstacles...",
+        "They're ancient stones from Mt. Moon!",
+        "Brock collected them himself.",
+        "Pretty impressive, right?"
+      ]
+    },
+    {
+      "id": "trainer_4",
+      "name": "Lass Petra",
+      "position": { "x": 9, "y": 7 },
+      "facing": "down",
+      "spriteKey": "lass",
+      "dialog": [
+        "Don't let the rocks intimidate you!",
+        "There's always a path forward.",
+        "Just watch your step and think carefully.",
+        "The journey is just as important as the destination!"
+      ]
+    }
+  ]
+}
